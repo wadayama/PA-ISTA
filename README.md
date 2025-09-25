@@ -8,8 +8,6 @@ This repository contains the implementation of the Physics-Aware Iterative Shrin
 
 *Authors: Tadashi Wadayama, Koji Igarashi, Takumi Takahashi*
 
-Submitted to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2025
-
 ## Overview
 
 PA-ISTA combines the computational efficiency of the Iterative Shrinkage-Thresholding Algorithm (ISTA) with accurate physical modeling using numerical PDE solvers and automatic differentiation. The algorithm incorporates the underlying physics through the nonlinear Schrödinger equation (NLSE) for optical fiber channels.
