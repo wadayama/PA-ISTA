@@ -1,0 +1,5 @@
+# Ignore all files except exp3-MSE.ipynb and README.md
+*
+!exp3-MSE.ipynb
+!README.md
+!.gitignore
